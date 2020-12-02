@@ -45,6 +45,9 @@ import java.util.Arrays;
 
 public class Main {
 
+    // check
+    // check
+
     static final int size = 10000000;
     static final int h = size / 2;
 
